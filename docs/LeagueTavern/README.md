@@ -1,5 +1,5 @@
 ---
-title: LeagueTavern帮助手册
+title: LeagueTavern保证手册
 ---
 # LeagueTavern
 尊敬的召唤师，欢迎使用 <a-button type="primary">LeagueTavern</a-button> ！
